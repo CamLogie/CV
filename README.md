@@ -48,17 +48,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Sept 2020 to Dec 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### King's College London / College (Sept 2016 to June 2019)
 
-- Subject, any specialisms
-- Grade
+- BSc Psychology - Dissertation investigation the association between boredom, blinking, and visual-attention paradigms.
+- 2-1 
 - Other cool stuff
 
 #### Any other qualifications
