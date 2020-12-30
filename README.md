@@ -1,7 +1,5 @@
 ## Cameron Logie
 
-I am a budding full-stack web developer currently learning at Makers Academy, and due to graduate in December 2020.
-
 Before joining Makers, I studied psychology at King's College London and graduated with a 2-1. I joined a recruitment company straight out of university to work on my sales and people skills. I planned on working there for at least a year, until COVID-19 took the world by storm. I was placed on furlough in April 2020, started to work on my software engineering skills and never went back.
 
 I have truly enjoyed this process of becoming a software developer. It is a unique  position that allows me to learn a vast array of different systems and tools, become a better problem solver, become a better researcher, create programs that interest me, and share my passion for technology with other like-minded individuals. I am looking forward to developing more skills and competencies as I progress through this journey. 
