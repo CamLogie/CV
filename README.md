@@ -34,7 +34,7 @@ _President_
 
 ## Skills
 
-#### Test-Driven Development
+**Test-Driven Development**
 
 Part of my development process is using a test-driven development approach. TDD was emphasized heavily as a useful process during the Makers course, as it helps to keep the project building focused and organized. I follow a red-green-refactor method, first writing a failing test, then writing the simplest code to make the test pass and finally refactoring to implement business logic. This keeps my work organized and saves me time throughout the length of a project.
 
@@ -42,7 +42,7 @@ Part of my development process is using a test-driven development approach. TDD 
 - In addition, various earlier projects like the airport challenge, the takeaway challenge, the rps-challenge, and the bookmark manager, in addition to others were all created using a strict TDD process. 
 - When spiking (not using TDD), the code became much less structured and debugging was much harder
 
-#### Diagramming
+**Diagramming**
 
 Before each of my projects, I find creating a plan and diagramming the structure of the app to be a very useful part of my development process. Diagramming helps to  create different project designs before beginning so that when the project is being built, the design is thought through and optimized. In addition, when in doubt whilst actually building the project, it can be referenced when at a blocked. 
 
@@ -52,7 +52,7 @@ Before each of my projects, I find creating a plan and diagramming the structure
 
 ## Education
 
-#### Makers Academy (09/2020 to 12/2020)
+**Makers Academy** (09/2020 to 12/2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -62,7 +62,7 @@ Before each of my projects, I find creating a plan and diagramming the structure
 - React, Node
 - HTML, CSS
 
-#### King's College London (09/2016 to 06/2019)
+**King's College London** (09/2016 to 06/2019)
 
 - BSc Psychology (_2-1_)
 - Did my dissertation investigating the association between boredom, blinking, and visual-attention paradigms. Collected data from 30+ participants and found a positive correlation between boredom and blinking but a negative association between blinking and visual-attention paradigms. 
